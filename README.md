@@ -13,6 +13,8 @@
   <img align="left" alt="Sagar Dahal | Stackoverflow" width="21px" src="https://avatars0.githubusercontent.com/u/1393171?s=200&v=4" />
 </a>
 
+[![](https://vistr.dev/badge?repo=elfocrash.elfocrash&corners=round&color=fa8072&leftcolor=87CEEB)](https://github.com/Elfocrash/vistr.dev)
+
 Hi, I'm Sagar Dahal, a full-stack developer who's in love with .NET and FOSS ecosystem.
 
 - 🔭 I’m currently working on my project [Aggrandizer](https://github.com/chaosifier/aggrandizer)
