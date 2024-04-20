@@ -1,4 +1,4 @@
-### Hi there, I'm [Sagar Dahal!](https://chaosifier.github.io) 👋
+### Hi there, I'm [Sagar Dahal!](https://github.com/chaosifier) 👋
 A full-stack developer who's in love with .NET and FOSS ecosystem.
 
 # 💫 About Me:
