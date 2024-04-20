@@ -5,8 +5,13 @@ A full-stack developer who's in love with .NET and FOSS ecosystem.
 🔭 I’m currently working on a fun little project : ConsoleMonkey<br>👯 I’m looking to collaborate on anything impactful<br>🤝 I’m passively looking for employment opportunity in the US<br>🌱 I’m currently pursuing MSCS in the US, my second master's degree.<br>💬 Ask me about systems design, cybersecurity, snooker, ...<br>⚡ Fun fact : I love cooking
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chaosifier) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaosifier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaosifier) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3694016) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chaosifier) 
+## 🌐 Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaosifier)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3694016)
+[![NUGET](https://img.shields.io/badge/Nuget-%23004880.svg?logo=Nuget&logoColor=white)](https://www.nuget.org/profiles/chaosifier) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chaosifier) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chaosifier)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaosifier)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
