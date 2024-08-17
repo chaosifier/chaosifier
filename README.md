@@ -2,21 +2,17 @@
 A full-stack developer who's in love with .NET and FOSS ecosystem.
 
 # 💫 About Me:
-🔭 I’m currently working on a fun little project : ConsoleMonkey<br>👯 I’m looking to collaborate on anything impactful<br>🤝 I’m passively looking for employment opportunity in the US<br>🌱 I’m currently pursuing MSCS in the US, my second master's degree.<br>💬 Ask me about systems design, cybersecurity, snooker, ...<br>⚡ Fun fact : I love cooking
+🔭 Taking deep dive into OWASP<br>👯 I’m looking for employment opportunity in the US<br>💬 Ask me about systems design, cybersecurity, programming, ...<br>
 
 
 ## 🌐 Links:
+[![NUGET](https://img.shields.io/badge/Nuget-%23004880.svg?logo=Nuget&logoColor=white)](https://www.nuget.org/profiles/chaosifier) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaosifier)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3694016)
-[![NUGET](https://img.shields.io/badge/Nuget-%23004880.svg?logo=Nuget&logoColor=white)](https://www.nuget.org/profiles/chaosifier) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chaosifier) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chaosifier)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaosifier)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,7 +28,6 @@ A full-stack developer who's in love with .NET and FOSS ecosystem.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -81,6 +76,7 @@ A full-stack developer who's in love with .NET and FOSS ecosystem.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-amazondynamodb-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats:
 <!---![](https://github-readme-stats.vercel.app/api?username=chaosifier&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
